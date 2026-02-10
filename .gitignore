@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files with secrets
+.env.local
+.env.production.local
+
+# File utili (solo per sviluppo locale)
+file-utili/
