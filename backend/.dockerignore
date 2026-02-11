@@ -1,0 +1,9 @@
+node_modules
+.tmp
+.cache
+build
+.env
+.env.local
+*.log
+.git
+.gitignore
